@@ -3,5 +3,5 @@ Welcome to my GitHub profile! I'm a self-taught Data Analyst, Frontend web devel
 
 # About Me
 - Coding Enthusiast: I code and learn everyday, constantly evolving my skills.
-- Languages & Tools: Proficient in TypeScript, Python, and React.
-- Tech Product Developer: Over 3 years of experience in developing cutting-edge tech products
+- Languages & Tools: Proficient in Excel, PowerBI, Tableau, MySQL, Oracle Apex, HTML, CSS, JavaScript.
+
